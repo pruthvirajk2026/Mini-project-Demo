@@ -1,4 +1,4 @@
 # Mini-project-Demo
 This is my frist Git Repository.
 <br>
-Author - Pruthviraj Kamble
+Author - Pruthviraj (P.K)
